@@ -1,7 +1,14 @@
 .App {
   text-align: center;
 }
+.rikkei{
+  color: red;
+}
+.item{
 
+  margin-right: 20px;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
